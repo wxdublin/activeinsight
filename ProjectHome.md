@@ -1,0 +1,1 @@
+Active Insight is an open source CEP framework for real-time, value-based detection and reaction to events and patterns. It offers a distributed (cloud ready) event processing runtime with embedded pattern engine to support event aggregation and correlation. ActiveInsight is being successfully utilized in various B2B and B2C online behavioral targeting platforms.
